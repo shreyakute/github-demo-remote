@@ -2,8 +2,9 @@
 def add(x,y):
     return x+y
 
+#subtract function
 def sub(x,y):
-    return x-y
+    pass
 
 def mul(x,y):
     return x*y
